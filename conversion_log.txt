@@ -1,0 +1,8 @@
+Dönüþtürme Loglarý
+==================
+
+Dönüþtürme Ýstatistikleri
+=========================
+Toplam dosya: 75
+Dönüþtürülen dosya: 75
+Hata veren dosya: 0
