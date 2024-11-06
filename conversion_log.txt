@@ -1,8 +1,8 @@
-Dönüştürme Logları
+DÃ¶nÃ¼ÅŸtÃ¼rme LoglarÄ±
 ==================
 
-Dönüştürme İstatistikleri
+DÃ¶nÃ¼ÅŸtÃ¼rme Ä°statistikleri
 =========================
-Toplam dosya: 75
-Dönüştürülen dosya: 75
+Toplam dosya: 0
+DÃ¶nÃ¼ÅŸtÃ¼rÃ¼len dosya: 0
 Hata veren dosya: 0
